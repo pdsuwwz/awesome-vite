@@ -21,6 +21,7 @@ A awesome list of [Vite.js](https://github.com/vitejs/vite)
 - [vite-starter](https://github.com/pdsuwwz/vite-starter) - 🐟 Starter template for Vite 2.x + Vue 3.x
 - [vite-ts-starter](https://github.com/pdsuwwz/vite-ts-starter) - 🐬  A Starter template built on Vite 2.x + Vue 3.x + Typescript / 一个开箱即用，适合快速迭代的启动模版。
 - [hoc-element-table-build](https://github.com/pdsuwwz/hoc-element-table-build) - 📥 Build for hoc-element-table.
+- [hoc-element-affix-build](https://github.com/pdsuwwz/hoc-element-affix-build) - 📍 Build for hoc-element-affix.
 - [vite-pinia-starter](https://github.com/pdsuwwz/vite-pinia-starter) - 🐝  Starter Example using Vue 3.x, Vite 2.x and Pinia@next 🍍
 
 
