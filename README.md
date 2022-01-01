@@ -1,12 +1,12 @@
 # awesome-vite
 😎 Awesome for Vite App 💯 
 
-A awesome list of <a href='https://github.com/vitejs/vite'>Vite.js</a>
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/pdsuwwz/awesome-vite)
 
 
 ## Templates
+
+A awesome list of [Vite.js](https://github.com/vitejs/vite)
 
 #### Vanilla
 
