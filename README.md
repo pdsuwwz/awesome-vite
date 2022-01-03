@@ -23,6 +23,7 @@ A awesome list of [Vite.js](https://github.com/vitejs/vite)
 - [hoc-element-table-build](https://github.com/pdsuwwz/hoc-element-table-build) - 📥 Build for hoc-element-table.
 - [hoc-element-affix-build](https://github.com/pdsuwwz/hoc-element-affix-build) - 📍 Build for hoc-element-affix.
 - [vite-pinia-starter](https://github.com/pdsuwwz/vite-pinia-starter) - 🐝  Starter Example using Vue 3.x, Vite 2.x and Pinia@next 🍍
+- [vite-pinia-starter-ts](https://github.com/pdsuwwz/pinia-starter-ts) - 🪁  A Vue 3.x Starter template built on Vite 2.x + TypeScript + Pinia@next 🍍
 
 
 #### React
