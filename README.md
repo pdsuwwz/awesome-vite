@@ -35,3 +35,7 @@ A awesome list of [Vite.js](https://github.com/vitejs/vite)
 
 - [vite-preact-sample](https://github.com/pdsuwwz/vite-preact-sample) - ⚛️  Sample app for Vite 2.x + Preact 10.x
 
+
+## License
+
+[MIT](./LICENSE) License | Copyright © 2020-PRESENT [Wisdom](https://github.com/pdsuwwz)
