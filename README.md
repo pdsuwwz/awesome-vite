@@ -25,7 +25,7 @@ A awesome list of [Vite.js](https://github.com/vitejs/vite)
 - [vite-pinia-starter](https://github.com/pdsuwwz/vite-pinia-starter) - 🐝  Starter Example using Vue 3.x, Vite 2.x and Pinia@next 🍍
 - [vite-pinia-starter-ts](https://github.com/pdsuwwz/pinia-starter-ts) - 🪁  A Vue 3.x Starter template built on Vite 2.x + TypeScript + Pinia@next 🍍
 - [vue-boilerplate-i18n](https://github.com/pdsuwwz/vue-boilerplate-i18n) - 🌏  Starter using Vite + Pinia + TypeScript + i18n + Element-Plus to fast build a prototyping
-- [docx-preview-demo](https://github.com/pdsuwwz/docx-preview-demo) - 🔍 Document Viewer Online 基于 docx-preview + Vue 3 的 word 文档在线预览示例
+- [docx-preview-demo](https://github.com/pdsuwwz/docx-preview-demo) - 🔍 Word Viewer Online 基于 docx-preview + Vue 3 的 Word 文档在线预览示例
 
 
 #### React
