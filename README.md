@@ -29,12 +29,12 @@ A awesome list of [Vite.js](https://github.com/vitejs/vite)
 
 #### React
 
-- [vite-react-unit](https://github.com/pdsuwwz/vite-react-unit) - Unit Testing for React 17.x + TS -- 搭建 React 单元测试环境（包含覆盖率测试）.
-- [vite-react-starter](https://github.com/pdsuwwz/vite-react-starter) - 🧩  Starter template for React 17
+- [vite-react-unit](https://github.com/pdsuwwz/vite-react-unit) - Unit Testing for React 18.x + TS -- 搭建 React 单元测试环境（包含覆盖率测试）.
+- [vite-react-starter](https://github.com/pdsuwwz/vite-react-starter) - 🧩  Starter template for React 18
 
 #### Preact
 
-- [vite-preact-sample](https://github.com/pdsuwwz/vite-preact-sample) - ⚛️  Sample app for Vite 2.x + Preact 10.x
+- [vite-preact-sample](https://github.com/pdsuwwz/vite-preact-sample) - ⚛️  Sample app for Vite 3.x + Preact 10.x
 
 
 ## License
