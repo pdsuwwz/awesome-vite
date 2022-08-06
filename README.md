@@ -25,7 +25,7 @@ A awesome list of [Vite.js](https://github.com/vitejs/vite)
 - [vue-boilerplate-i18n](https://github.com/pdsuwwz/vue-boilerplate-i18n) - 🌏  Starter using Vite + Pinia + TypeScript + i18n + Element-Plus to fast build a prototyping
 - [docx-preview-demo](https://github.com/pdsuwwz/docx-preview-demo) - 🔍 Word Viewer Online 基于 docx-preview + Vue 3 的 Word 文档在线预览示例
 - [vue-word-cloud](https://github.com/pdsuwwz/vue-word-cloud) - 💗 Create word cloud using Vue 3.x and Echarts 5.x 自定义蒙版图形、关键词，生成词云图
-- [pure-vue3-admin](https://github.com/pdsuwwz/pure-vue3-admin) - 🪢 Pure Admin Prototyping Template built on Vite 3.x + TypeScript + Pinia@next
+- [pure-vue3-admin](https://github.com/pdsuwwz/pure-vue3-admin) - 📦 开箱即用，一个纯净的 Vue3 模板，吸收敏捷思想，基于 Vite3 + Vue3 + TS + Pinia@next 实现快速开发
 
 #### React
 
