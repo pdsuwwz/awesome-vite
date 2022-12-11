@@ -1,5 +1,5 @@
 # awesome-vite [![Awesome](https://awesome.re/badge.svg)](https://github.com/pdsuwwz/awesome-vite)
-😎 Awesome for Vite App 💯 
+😎 Awesome for Vite4 / Vue3 / Webpack5 Apps written by myself. 💯 
 
 
 ## Templates
